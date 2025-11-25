@@ -1,0 +1,25 @@
+# 🐍 Python Mini-Projects Collection
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-darkgreen?style=for-the-badge)
+
+Welcome to my personal collection of Python projects. This repository documents my journey in Software Engineering, featuring algorithms, games, and utility scripts.
+
+## 📂 Project Index
+
+| Project Name | Description | Location |
+| :--- | :--- | :--- |
+| **Number Guessing Game** | A logic game where the user guesses a randomly generated number. | `01-Number-Guessing/` |
+| **Upcoming Project** | *More projects coming soon...* | - |
+
+---
+
+## 🚀 How to Run
+1. Clone the repository.
+2. Navigate to the specific project folder.
+3. Run the script using `python filename.py`.
+
+---
+<div align="center">
+  <b>Developed by Limath Jayawardena</b>
+</div>
