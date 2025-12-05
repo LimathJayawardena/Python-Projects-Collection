@@ -11,7 +11,7 @@ Welcome to my personal collection of Python projects. This repository documents 
 | :--- | :--- | :--- |
 | **Number Guessing Game** | A logic game where the user guesses a randomly generated number. | `01-Number-Guessing/` |
 | **Password Generator** | A Program that enter how many characters & generate password equal to that character quantity. | `02-password-generator/` |
-| **Mini_Game** | Enjoy with mini game... | `03-Rock-Paper.py/`|`04-Rock-Pape.py/` |
+| **Mini_Game** | Enjoy with mini game... | `03-Rock-Paper.py/`  |`04-Rock-Pape.py/` |
 | **Vowel_Separator** | A program that separate vowels by word... | `05-Vowel_Convertion.py/`|
 | **Upcoming Project** | *More projects coming soon...* | - |
 
