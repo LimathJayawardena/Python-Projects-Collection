@@ -13,6 +13,7 @@ Welcome to my personal collection of Python projects. This repository documents 
 | **Password Generator** | A Program that enter how many characters & generate password equal to that character quantity. | `02-password-generator/` |
 | **Mini_Game** | Enjoy with mini game... | 03,04/|
 | **Vowel_Separator** | A program that separate vowels by word... | `05-Vowel_Convertion.py/`|
+| **Temparature_Convertor** | A program that convert c into f & f into c... | `06-Temparature_convertor.py/`|
 | **Upcoming Project** | *More projects coming soon...* | - |
 
 ---
