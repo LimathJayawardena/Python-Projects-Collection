@@ -15,6 +15,7 @@ Welcome to my personal collection of Python projects. This repository documents 
 | **Vowel_Separator** | A program that separate vowels by word... | `05-Vowel_Convertion.py/`|
 | **Temparature_Convertor** | A program that convert c into f & f into c... | `06-Temparature_convertor.py/`|
 | **To-Do-list** | A program that have various kind of lists... | `07-shopping_list.py/`|
+| **Grade_average_calculator** | A program that calculator grades... | `08-cal_G.A.py/`|
 | **Upcoming Project** | *More projects coming soon...* | - |
 
 ---
