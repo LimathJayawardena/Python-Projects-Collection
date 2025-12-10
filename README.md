@@ -16,6 +16,7 @@ Welcome to my personal collection of Python projects. This repository documents 
 | **Temparature_Convertor** | A program that convert c into f & f into c... | `06-Temparature_convertor.py/`|
 | **To-Do-list** | A program that have various kind of lists... | `07-shopping_list.py/`|
 | **Grade_average_calculator** | A program that calculator grades... | `08-cal_G.A.py/`|
+| **Grade_average_calculator** | A program that calculator grades Version 2... | `08-cal_G.A_v2.py/`|
 | **Upcoming Project** | *More projects coming soon...* | - |
 
 ---
